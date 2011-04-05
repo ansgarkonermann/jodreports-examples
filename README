@@ -1,6 +1,7 @@
 
-Contains a few learning tests showcasing how to create OpenOffice documents using the 
-free (LGPL) JODReports/JODConvert libraries.
+Contains a few learning tests showcasing how to create OpenOffice documents from OpenOffice
+template documents and converting them into PDF files, all using the free (LGPL) libraries
+JODReports and JODConvert.
 
 See
 - http://jodreports.sourceforge.net/
