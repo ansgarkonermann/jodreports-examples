@@ -1,0 +1,23 @@
+
+  1. Schritte zur Dokumentengenerierung
+     - ODT-DokumentenTEMPLATE von Hand erstellen
+     - Feldbefehle + Sichtbarkeitsbedingungen + Iterationen einfügen
+     - ODT-DokumentenINSTANZ generieren
+     - ODT-Dokumenteninstanz nach PDF konvertieren
+
+  2. Wie sieht ein einfaches Template aus und wie erzeugt man es?
+     - template.odt in test-resources
+     - in OpenOffice
+     - direkte XML-Ansicht: oxygenXML mit Archiv-Support (sample-Projekt)
+       - Formatierungsoptionen so gesetzt, dass Whitespace für Skripte und Fields erhalten bleibt
+
+  3. Wie erzeugt man eine Dokumenteninstanz
+     - Learning Test zeigen (Datenmodell + Testmethode)
+     - document-instance.odt öffnen
+
+  4. Wie transformiert man das nach PDF?
+     - OpenOffice "headless" starten
+     - Testmethode aufrufen
+     - document-instance.pdf zeigen
+
+
