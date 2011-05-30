@@ -7,7 +7,7 @@
   <groupId>de.lightful.experiments.jodreports</groupId>
   <artifactId>learningtests</artifactId>
   <version>1.0</version>
-  <name>Learning Tests</name>
+  <name>JODReports :: Learning Tests</name>
 
   <dependencies>
     <dependency>
